@@ -10,7 +10,7 @@ the dataset is taken from kaggle Cityscapes dataset
 ![TrainResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/e7c6900b-e4f2-4c5c-a7d1-81fc7e2f744e)
 
 ### Validation Set
-![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/d2820d85-baaa-4c7f-b521-46940b03a7e9)
+![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/227c639f-5bfc-49b5-b9be-30df344afa22)
 ![ValidationResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/48064564-ef90-44f6-bda2-336ae51072a3)
 
 ### Testing on Road
