@@ -6,7 +6,7 @@ the dataset is taken from kaggle Cityscapes dataset
 ## Screenshots
 
 ### Traning Set
-![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/85b69b95-b7f5-46de-9d9b-26f8fa874633)
+![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/07a7eb8e-aeed-4379-b1b7-0d9165f34cda)
 ![TrainResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/e7c6900b-e4f2-4c5c-a7d1-81fc7e2f744e)
 
 ### Validation Set
