@@ -10,8 +10,6 @@ the dataset is taken from kaggle Cityscapes dataset
 ![TrainResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/e7c6900b-e4f2-4c5c-a7d1-81fc7e2f744e)
 
 ### Validation Set
-![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/227c639f-5bfc-49b5-b9be-30df344afa22)
-![ValidationResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/48064564-ef90-44f6-bda2-336ae51072a3)
 ![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/36fe96e2-fe09-41aa-9d98-d60f0544259f)
 ![TrainResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/1408f9db-a449-4a62-859b-576c3a87b6df)
 
