@@ -12,6 +12,8 @@ the dataset is taken from kaggle Cityscapes dataset
 ### Validation Set
 ![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/227c639f-5bfc-49b5-b9be-30df344afa22)
 ![ValidationResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/48064564-ef90-44f6-bda2-336ae51072a3)
+![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/36fe96e2-fe09-41aa-9d98-d60f0544259f)
+![TrainResult](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/1408f9db-a449-4a62-859b-576c3a87b6df)
 
 ### Testing on Road
 ![target](https://github.com/AmanShamsheerSheikh/Semantic-Segmentation/assets/103746505/a98fc1dd-282a-4f08-ba75-4e09ea5d89d8)
